@@ -104,3 +104,13 @@ body {
 .dispositivos{
     text-align: center;
 }
+
+.dispositivos__titulo{
+    font-size: 48px;
+    color:var(--branco-principal)
+}
+
+.lista__iten{
+    font-size: 32px;
+    color: var(--branco-principal)
+}
