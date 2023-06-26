@@ -110,7 +110,7 @@ body {
     color:var(--branco-principal)
 }
 
-.lista__iten{
+.lista__itens{
     font-size: 32px;
     color: var(--branco-principal)
 }
@@ -137,5 +137,5 @@ body {
 .rodape {
     text-align: center;
     margin: 5em 3em;
-    display: flex;
+    
 }
