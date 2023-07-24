@@ -110,7 +110,7 @@ body {
     color:var(--branco-principal)
 }
 
-.lista__itens{
+.lista__item{
     font-size: 32px;
     color: var(--branco-principal)
 }
@@ -137,4 +137,17 @@ body {
 .rodape {
     text-align: center;
     margin: 5em 3em;  
+}
+
+.lista__link a:haver {
+    color: var(--botao-azul);
+}
+
+.lista__link a:active{
+    color:purple
+}
+
+.container__batao:hover{
+    background-color: var(--botao-azul-efeito);
+    color:var(--cor-de-fundo)
 }
